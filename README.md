@@ -1,5 +1,10 @@
 januszebiznesu
 ==============
+
+Gra stworzona przez użytkownika @lolman (http://www.wykop.pl/ludzie/lolman/) na stronie wykop.pl.
+Opublikowana 16.11.2014.
+
+
 Parę słów o grze: 
 
 
