@@ -1,6 +1,6 @@
 #januszebiznesu - gra planszowa
 ==============
-Ostatnia wersja do pobrania: [#januszebiznesu v0.1](https://github.com/PJanisio/januszebiznesu/releases)
+Ostatnia wersja do pobrania: [#januszebiznesu](https://github.com/PJanisio/januszebiznesu/releases)
 
 -------
 
